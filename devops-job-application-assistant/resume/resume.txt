@@ -1,0 +1,13 @@
+python
+bash
+docker
+linux
+nexux
+prometheuis
+graphana
+aws
+kubernetes
+terraform
+jenkins
+CICD
+Git
